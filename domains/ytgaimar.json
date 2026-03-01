@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "ytgaimar725-cyber"
+    },
+    "records": {
+        "CNAME": "cname.vercel-dns.com",
+        "TXT": "vc-domain-verify=is-a.dev,23d9350a556eb5010d35"
+    }
+}
